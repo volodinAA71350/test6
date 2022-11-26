@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConverterApp-main",
+    "\\ConverterApp-main\\ConverterApp",
+    "\\ConverterApp-main\\ConverterApp\\ConverterLib",
+    "\\ConverterApp-main\\ConverterApp\\PhysicValuesLib",
+    "\\ConverterApp-main\\ConverterApp\\WindowsAPI"
+  ],
+  "SelectedNode": "\\ConverterApp-main\\ConverterApp\\WindowsAPI\\ConverterForm.cs",
+  "PreviewInSolutionExplorer": false
+}
